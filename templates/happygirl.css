@@ -1,0 +1,8 @@
+.background-container {
+    width: 100%;
+    height: 300px; /* Example height */
+    background-image: url("img/team1.jpg"); /* Path to your image */
+    background-size: cover; /* Adjust the image to cover the entire background */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-position: center; /* Center the image */
+}
