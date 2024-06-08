@@ -33,39 +33,28 @@ Mental-Health-Advice is an innovative online platform designed to provide instan
 
 **Interconnection of Azure Services:**
 
-1. **Azure App Service:** Acts as the central hub, hosting the web application and managing requests from users.
-2. **User Interaction:** When a user interacts with the chat interface, the input is sent to the Azure Bot Service.
-3. **Input Processing:** The Azure Bot Service processes the input and sends it to the Azure Language Service.
-4. **Intent Analysis:** The Conversational Language Understanding Model analyzes the input to determine the user's intent.
-5. **Answer Retrieval:** The Custom Question Answering Model, leveraging Azure AI Search Service, searches for the best possible response based on the knowledge base.
-6. **Response Delivery:** Once the appropriate response is identified, it is sent back through the Azure Bot Service to the user.
+**My Resource Group**
+![Screenshot 2024-06-08 121529](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/935ea104-a1ab-42b5-bd74-390c80d07894)
+
+1. **Azure App Service:** Acts as the central hub, hosting the web application and managing requests from users. ![Screenshot 2024-06-08 123228](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/d1e37072-f191-4b7a-b9d0-ad27fcfc73bd)
+![Screenshot 2024-06-08 121652](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/dcc476aa-2377-4391-85c6-6af4f9f9a536)
+![Screenshot 2024-06-08 123047](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/160adc7c-8f97-4b65-a9e6-a99986c345e2)
+![Screenshot 2024-06-08 121717](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/aa02f60e-4a8d-4c23-b645-b1c9a830142d)
+
+2. **User Interaction:** When a user interacts with the chat interface, the input is sent to the Azure Bot Service.![Screenshot 2024-06-08 121902](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/d9c75018-e423-4e28-9e39-3b527a4cccb8)
+
+3. **Input Processing:** The Azure Bot Service processes the input and sends it to the Azure Language Service.![Screenshot 2024-06-08 123459](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/adfac72e-d64c-42ee-a81e-694296cf6689)
+
+4. **Intent Analysis:** The Conversational Language Understanding Model analyzes the input to determine the user's intent.![Screenshot 2024-06-08 123538](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/c6083504-6850-4f48-ab48-a2e3824a9a71)
+![Screenshot 2024-06-07 132749](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/9c18c406-2a50-4aa8-b4e9-128d4a8ea79a)
+
+5. **Answer Retrieval:** The Custom Question Answering Model, leveraging Azure AI Search Service, searches for the best possible response based on the knowledge base.![Screenshot 2024-06-07 132842](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/3c712646-1774-4741-9c2f-7691fd3f30e8)
+![Screenshot 2024-06-08 124109](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/d3f9e8da-f46f-426f-b392-b90f3184c8f5)
+
+6. **Response Delivery:** Once the appropriate response is identified, it is sent back through the Azure Bot Service to the user.![Screenshot 2024-06-08 121902](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/82723024-d040-4c37-bd37-22d21b95f50c)
+
 7. **Data Management:** All data and application files are securely stored and managed using the Azure Storage Account, ensuring the system's reliability and data security.
-
-![Screenshot 2024-06-08 074303](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/982ce9e9-d73f-4ea0-9435-9643e99b8a15)
-
-![Screenshot 2024-06-08 123228](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/7a4ef014-e9d0-43ee-a800-ba8bda125528)
-
-![Screenshot 2024-06-08 121652](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/3a67323f-49e9-4b3f-95ed-b7801cd86e32)
-
-![Screenshot 2024-06-08 121717](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/68eb4711-9589-4084-b467-9042adc9219e)
-
-![Screenshot 2024-06-08 123047](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/ad3b41af-34b6-4e4b-8160-745f4766355d)
-
-![Screenshot 2024-06-08 121902](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/efcd2b72-77df-4e99-8774-efdb0475b906)
-
-![Screenshot 2024-06-08 123459](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/559bb6da-7464-44d6-acc9-f4da01f6533e)
-
-![Screenshot 2024-06-08 123538](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/04c4f61e-0213-4c39-9ba6-148352f3b5aa)
-
-![Screenshot 2024-06-08 123808](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/557a740a-c876-442a-82cb-3389f79be4a6)
-
-![Screenshot 2024-06-07 132749](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/60680c7e-c657-4c15-88da-077fbc174cfd)
-
-![Screenshot 2024-06-08 124143](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/50bf053f-1ae2-41d4-a407-101261236882)
-
-![Screenshot 2024-06-08 124109](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/6d598d4a-d040-4687-90aa-d3abd4aae2c7)
-
-![Screenshot 2024-06-07 132842](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/4a691697-6ab4-4035-90c8-61fa22aff4b1)
+![Screenshot 2024-06-08 124143](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/3c2ea446-c74c-4a34-8bdd-e014a055a8fc)
 
 **Project Impact:**  
 Mental-Health-Advice aims to bridge the gap in mental health services by providing immediate advice. By leveraging Azure's powerful services, the platform ensures that users receive accurate and timely advice, fostering a supportive environment for individuals struggling with common mental health issues.
