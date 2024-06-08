@@ -80,7 +80,7 @@ def analyze_intent(user_input):
 
     # Define the advice for each intent
     advice_dict = {
-        "Anxiety": "Here are a few strategies that might help with anxiety: practice deep breathing, engage in mindfulness meditation, and consider reaching out to a friend or therapist.",
+        "Anxiety": "As a human anxiety and nerviousness is obvious but Here are a few strategies that might help with anxiety: practice deep breathing, engage in mindfulness meditation, and consider reaching out to a friend or therapist.",
         "Depression": "I'm sorry you're feeling this way. It might help to engage in activities you enjoy, even if they don't seem appealing right now. Physical exercise and talking to someone you trust can also make a big difference.",
         "Stress": "Stress can be overwhelming. Consider taking short breaks throughout your day, practicing time management techniques, and doing something you find relaxing.",
         "Crisis Support": "It sounds like you're in a crisis. It's important to talk to a professional immediately. Please reach out to a crisis hotline or seek emergency assistance.",
@@ -96,9 +96,10 @@ def analyze_intent(user_input):
         "Seeking Professional Help": "Seeking professional help is a positive step towards improving your mental health. Therapists, counselors, and psychiatrists can provide valuable support and strategies for managing your concerns. Don't hesitate to reach out.",
         "Self-Esteem Issues": "Improving self-esteem takes time and effort. Focus on your strengths and achievements, practice self-compassion, and avoid comparing yourself to others. Setting small, achievable goals can also help build confidence.",
         "Sleep Issues": "Good sleep hygiene can improve your sleep quality. Try to maintain a consistent sleep schedule, create a relaxing bedtime routine, and limit screen time before bed. Avoid caffeine and heavy meals in the evening.",
-        "Stress": "Stress can be managed with various techniques. Practice relaxation exercises like deep breathing or progressive muscle relaxation, take regular breaks, and engage in activities you enjoy. Prioritizing tasks and setting realistic goals can also help.",
+        "Stress": "Stress is normal in our life. However stress can be managed with various techniques. Practice relaxation exercises like deep breathing or progressive muscle relaxation, take regular breaks, and engage in activities you enjoy. Prioritizing tasks and setting realistic goals can also help.",
         "Thanks Greetings": "You're welcome! If you have any other questions, feel free to ask.",
-        "Wellness Tips": "For overall wellness, focus on a balanced lifestyle. Eat nutritious foods, stay physically active, get enough sleep, and take time for hobbies and relaxation. Staying connected with loved ones and seeking support when needed is also important."
+        "Wellness Tips": "For overall wellness, focus on a balanced lifestyle. Eat nutritious foods, stay physically active, get enough sleep, and take time for hobbies and relaxation. Staying connected with loved ones and seeking support when needed is also important.",
+        "Headache": "Headaches are normal in anyone's life style.However there are similar natuaral remedies for headaches, pain and migranes."
     }
 
 
