@@ -39,7 +39,14 @@ Mental-Health-Advice is an innovative online platform designed to provide instan
 1. **Azure App Service:** Acts as the central hub, hosting the web application and managing requests from users. ![Screenshot 2024-06-08 123228](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/d1e37072-f191-4b7a-b9d0-ad27fcfc73bd)
 ![Screenshot 2024-06-08 121652](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/dcc476aa-2377-4391-85c6-6af4f9f9a536)
 ![Screenshot 2024-06-08 123047](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/160adc7c-8f97-4b65-a9e6-a99986c345e2)
-![Screenshot 2024-06-08 121717](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/aa02f60e-4a8d-4c23-b645-b1c9a830142d)
+![Screenshot 2024-06-08 152801](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/f7a58a40-e340-43b0-9d2f-4042e480b6d9)
+![Screenshot 2024-06-08 131621](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/49aa5912-f845-4458-8bf1-d427d638f4c9)
+![Screenshot 2024-06-08 131752](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/f13d0236-537a-4f98-ad10-f167171bd25b)
+![Screenshot 2024-06-08 131806](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/029d9a45-f04a-46ee-8426-b57eb8e52276)
+![Screenshot 2024-06-08 131826](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/539dadf7-537c-4902-b590-edffcb2ed6e3)
+**Mental Health Advice Chat Interface**
+![Screenshot 2024-06-08 152708](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/93c9c92a-f041-4ba4-aa84-2b1ebc73789c)
+
 
 2. **User Interaction:** When a user interacts with the chat interface, the input is sent to the Azure Bot Service.![Screenshot 2024-06-08 121902](https://github.com/Barun-me/Mental-Health-Advice/assets/156335152/d9c75018-e423-4e28-9e39-3b527a4cccb8)
 
