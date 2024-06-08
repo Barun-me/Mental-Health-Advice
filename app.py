@@ -22,7 +22,7 @@ def chat():
         "I need help": "Sure,How can I assist you today?",
         "ok": "Alright. How can I help you further?",
         "thanks": "You're welcome! If you have any other questions, feel free to ask.",
-        "no":"Ok,still if you'll any advice feel free to ask me any time.I'm always available for you",
+        "no":"Ok,still if you'll need any advice feel free to ask me any time.I'm always available for you",
         "no thanks": "You're welcome!",
         "thank you": "You're welcome! If you have any other questions, feel free to ask.I'm always available for you",
         "thanks for that": "You're welcome! If you have any other questions, feel free to ask.I'm always available for you"
